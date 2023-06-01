@@ -36,7 +36,7 @@
 
 無効化  
 
-    ! U1 setvar "media.width_sense.enable" "on"
+    ! U1 setvar "media.width_sense.enable" "off"
 
 <br><br>
 
